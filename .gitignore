@@ -1,55 +1,25 @@
-# Prerequisites
-*.d
+# Meus primeiros projetos em C 💻
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+Olá! Seja bem-vindo ao meu repositório!
 
-# Linker output
-*.ilk
-*.map
-*.exp
+Este espaço foi criado para compartilhar meus primeiros exercícios e projetos desenvolvidos durante meus estudos de programação utilizando a linguagem C.
 
-# Precompiled Headers
-*.gch
-*.pch
+## 📚 O que estou aprendendo
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+- Lógica de programação;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Variáveis e operadores;
+- Estruturas de decisão.
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+## 🚀 Projetos
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+- **Jogo de Adivinhação:** exercício utilizando lógica de programação e números aleatórios.
+- **Jogo de Jokenpô:** aplicação de estruturas condicionais para desenvolver um jogo.
+- **Tabuada:** exercício utilizando estruturas de repetição e operações matemáticas.
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+## 🎯 Objetivo
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e estou direcionando meus estudos para o desenvolvimento web.
 
-# debug information files
-*.dwo
+Este repositório representa o início da minha jornada na tecnologia e será atualizado conforme minha evolução nos estudos.
